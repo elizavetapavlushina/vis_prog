@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>images/homework.jpg</file>
+        <file>images/homework2.jpg</file>
+        <file>images/icons8-checklist-32.png</file>
+        <file>images/icons8-выход-20.png</file>
+        <file>images/icons8-выход-30.png</file>
+        <file>images/icons8-добавить-20.png</file>
+        <file>images/icons8-добавить-30.png</file>
+        <file>images/icons8-книга-20.png</file>
+        <file>images/icons8-мусор-30.png</file>
+        <file>images/icons8-открыть-папку-30.png</file>
+        <file>images/icons8-список-20.png</file>
+        <file>images/icons8-список-30.png</file>
+    </qresource>
+</RCC>

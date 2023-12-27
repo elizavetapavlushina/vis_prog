@@ -1,0 +1,127 @@
+QMainWindow{
+    background-color: #FFB6C1;
+}
+
+QPushButton#pushButton{
+    background-color: #FFF5EE;
+    color: #000000;
+    font-weight: 800;
+    height: 90px;
+    border: 1px solid #000000;
+
+}
+
+QPushButton#pushButton_2{
+    background-color: #FFF5EE;
+    color: #000000;
+    font-weight: 800;
+    height: 90px;
+    border: 1px solid #000000;
+
+}
+
+QPushButton#pushButton_3{
+    background-color: #FFF5EE;
+    color: #000000;
+    font-weight: 800;
+    height: 80px;
+    border: 1px solid #000000;
+
+}
+
+QPushButton#pushButton_4{
+    background-color: #FFF5EE;
+    color: #000000;
+    font-weight: 800;
+    height: 90px;
+    border: 1px solid #000000;
+
+}
+
+
+
+QPushButton#AddToData{
+    background-color: #FFF5EE;
+    color: #000000;
+    font-weight: 500;
+    height: 45px;
+    border: 1px solid #000000;
+
+}
+
+QPushButton#Exit{
+    background-color: #FFF5EE;
+    color: #000000;
+    font-weight: 500;
+    height: 45px;
+    border: 1px solid #000000;
+
+}
+
+QTextEdit{
+
+    border: 4px solid #DB7093;
+}
+
+
+QPushButton#Add_Image{
+
+    background-color: #FFF5EE;
+    color: #000000;
+    height: 40px;
+    border: 1px solid #000000;
+
+}
+
+QPushButton#Open{
+    background-color: #FFF5EE;
+    color: #000000;
+    font-weight: 350;
+    height: 36px;
+    border: 1px solid #000000;
+
+}
+
+QPushButton#Delete{
+    background-color: #FFF5EE;
+    color: #000000;
+    font-weight: 350;
+    height: 30px;
+    border: 1px solid #000000;
+
+}
+
+QDateEdit#dateEdit
+{
+    height: 36px;
+    border: 1px solid #000000;
+    background-color: #FFF5EE;
+    color: #000000;
+}
+
+QTimeEdit#timeEdit{
+    height: 36px;
+    border: 1px solid #000000;
+    background-color: #FFF5EE;
+    color: #000000;
+}
+
+QComboBox#comboBox{
+    height: 36px;
+    border: 1px solid #000000;
+    background-color: #FFF5EE;
+    color: #000000;
+}
+
+QLineEdit#lineEdit{
+    height: 30px;
+    border: 1px solid #000000;
+    background-color: #FFF5EE;
+    color: #000000;
+}
+
+QLineEdit#search{
+    border: 1px solid #000000;
+    background-color: #FFF5EE;
+    color: #000000;
+}
